@@ -10,4 +10,10 @@ Output -
 Steps to use:
 1. Download the .rar file and extract
 2. The \src folder contains all the source code required to run the project. 
-3. Use Netbeans to import the project and run the file named 
+3. Use Netbeans to import the project and run the file named 'NewJFrame.java' 
+4. A small dialog box opens up. First click on delete, to delete the file that has already been in the buffer.
+5. Use the Windows file system to graphically search for the test file you wish and select it. 
+6. Click on preprocess to preprocess the file and append it to the train corpus to produce the result.
+7. Click on generate to run the Gibbs' Sampling modeled LDA.
+8. The output is found in the main folder under the file named 'Output.txt'
+
